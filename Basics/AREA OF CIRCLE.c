@@ -1,7 +1,7 @@
 //AREA OF CIRCLE//
 #include<stdio.h>
 #define pie 3.14
-main()
+int main()
 {
 	int r,A;
 	printf("enter r\n");
